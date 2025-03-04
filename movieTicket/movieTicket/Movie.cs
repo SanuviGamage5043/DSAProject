@@ -152,38 +152,7 @@ namespace movieTicket
         //    Head = sorted;
         //}
 
-        //public void SelectionSortByRating()
-        //{
-        //    if (Head == null || Head.Next == null) return; 
-
-        //    Node current = Head;
-        //    while (current != null)
-        //    {
-
-        //        Node maxNode = current;
-        //        Node tempNode = current.Next;
-
-        //        while (tempNode != null)
-        //        {
-        //            if (tempNode.Data.Rating > maxNode.Data.Rating)
-        //            {
-        //                maxNode = tempNode; 
-        //            }
-        //            tempNode = tempNode.Next;
-        //        }
-
-
-        //        if (maxNode != current)
-        //        {
-        //            Movie temp = current.Data;
-        //            current.Data = maxNode.Data;
-        //            maxNode.Data = temp;
-        //        }
-
-
-        //        current = current.Next;
-        //    }
-        //}
+     
 
         public void MergeSortByRating()
         {
