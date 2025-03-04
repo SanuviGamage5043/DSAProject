@@ -1,0 +1,28 @@
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.AssemblyInfoInputs.cache
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.AssemblyInfo.cs
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.csproj.CoreCompileInputs.cache
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.exe
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.deps.json
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.runtimeconfig.json
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.dll
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.pdb
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.dll
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\refint\movieTicket.dll
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.pdb
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.genruntimeconfig.cache
+D:\3rd sem\EC3202 Data structures\project\movieTicket\movieTicket\obj\Debug\net8.0\ref\movieTicket.dll
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.exe
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.deps.json
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.runtimeconfig.json
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.dll
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\bin\Debug\net8.0\movieTicket.pdb
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.AssemblyInfoInputs.cache
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.AssemblyInfo.cs
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.csproj.CoreCompileInputs.cache
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.dll
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\refint\movieTicket.dll
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.pdb
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\movieTicket.genruntimeconfig.cache
+C:\Users\sanuv\OneDrive\Desktop\movieTicket\movieTicket\obj\Debug\net8.0\ref\movieTicket.dll
